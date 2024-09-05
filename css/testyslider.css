@@ -14,7 +14,7 @@
   color: #fff;
   padding: 30px 20px;
   border: 1px solid rgb(189, 189, 189);
-  border-left: 3px solid #c82333;
+  border-left: 3px solid #fff;
 }
 
 .testimonial .description:after {
@@ -37,7 +37,7 @@
   overflow: hidden;
   margin: 20px 30px 10px;
   display: inline-block;
-  border: 3px solid #c82333;
+  border: 3px solid #fff;
 }
 
 .testimonial .pic img {

@@ -15,12 +15,12 @@ include('../dbConnection.php');
 ?>
   <div class="col-sm-9 mt-5">
     <!--Table-->
-    <p class=" bg-dark text-white p-2">List of Students</p>
+    <p class=" bg-dark text-white p-2 font-weight-bold">List of Students</p>
     <?php
       $sql = "SELECT * FROM student";
       $result = $conn->query($sql);
       if($result->num_rows > 0){
-       echo '<table class="table">
+       echo '<table class="table table-striped table-hover">
        <thead>
         <tr>
          <th scope="col">Student ID</th>

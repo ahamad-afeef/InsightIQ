@@ -13,12 +13,10 @@
         </div> <!-- End Contact Us 1st Column-->
 
         <div class="col-md-4 stripe text-white text-center">  <!-- Start Contact Us 2nd Column-->
-          <h4>iSchool</h4>
-          <p>iSchool, 
-          Near Police Camp II, Bokaro, 
-          Jharkhand - 834005<br /> 
-          Phone: +00000000 <br />
-          www.ischool.com </p>
+          <h4>InsightIQ</h4>
+          <p>No.05, Sardhar Colony, Indira Nagar,
+          Ekattuthangal, Chennai-600032<br /> 
+          Tamil Nadu, India. </p>
         </div> <!-- End Contact Us 2nd Column-->
       </div> <!-- End Contact Us Row-->
     </div> <!-- End Contact Us Container-->

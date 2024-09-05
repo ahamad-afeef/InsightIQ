@@ -39,7 +39,7 @@ include('../dbConnection.php');
         <?php
           $sql = "SELECT * FROM lesson WHERE course_id = {$_REQUEST['checkid']}";
           $result = $conn->query($sql);
-          echo '<table class="table">
+          echo '<table class="table table-striped table-hover">
             <thead>
               <tr>
               <th scope="col">Lesson ID</th>

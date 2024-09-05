@@ -14,7 +14,7 @@ include_once('../dbConnection.php');
  }
 ?>
 
- <div class="container mt-5 ml-2">
+ <div class="col-lg-9 container mt-4 ml-2">
   <div class="row">
    <div class="jumbotron">
     <h4 class="text-center">All Course</h4>

@@ -9,11 +9,6 @@
   color: #fff !important;
 }
 
-.custom-nav-item:hover {
-  background-color: #dc3545;
-  border: solid #dc3545 1px;
-  border-radius: 10px;
-}
 
 .remove-vid-marg {
   margin: 0px;
@@ -63,7 +58,7 @@ a.social-hover:hover {
 }
 
 .stripe {
-  background-image: linear-gradient(240deg, #ed213a, #93291e);
+  background-image: linear-gradient(240deg, #225470, white);
   padding: 3rem;
   height: 13rem;
   margin-top: 4rem;

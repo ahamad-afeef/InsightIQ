@@ -1,10 +1,10 @@
  <!-- Start Footer -->
- <footer class="container-fluid bg-dark text-center p-2">
-    <small class="text-white">Copyright &copy; 2019 || Designed By E-Learning || <?php   
+ <footer class="container-fluid text-center p-2" style="background-color: #225470;">
+    <small class="text-white">Copyright &copy; 2024 | Designed By Afeef, Manas & Fazil | <?php   
           if (isset($_SESSION['is_admin_login'])){
             echo '<a href="admin/adminDashboard.php"> Admin Dashboard</a> <a href="logout.php">Logout</a>';
           }else {
-            echo '<a href="#login" data-toggle="modal" data-target="#adminLoginModalCenter"> Admin Login</a>';
+            echo '<a href="#login" class="text-white" data-toggle="modal" data-target="#adminLoginModalCenter"> Admin Login</a>';
           }
     ?>
   </small> 

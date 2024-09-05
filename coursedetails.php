@@ -47,7 +47,7 @@
                 $result = $conn->query($sql);
                 if($result->num_rows > 0){
           echo '
-           <table class="table table-bordered table-hover">
+           <table class="table table-bordered table-hover mt-3">
              <thead>
                <tr>
                  <th scope="col">Lesson No.</th>
